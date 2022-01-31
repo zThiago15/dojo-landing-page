@@ -6,13 +6,14 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
 
 ## Requisitos
 
-[x] 1 - Crie um cabeçalho para a página:
+1.
+[x] - Crie um cabeçalho para a página:
     - Adicione um `id` para seu cabeçalho;
     - Faça com que a cor de fundo seja `#FFC5E5`;
     - Faça com que a posição seja absoluta; 
     - Use as propriedades `left` e `top` para retirrar espaços em branco. 
   
-2 [x] - Crie um menu para o cabeçalho:
+[x] - Crie um menu para o cabeçalho:
     - Adicione 3 elementos `h3` com os nomes *"SOBRE"*, *"SERVIÇOS"* e *"CONTATO"*, que deverão ficar à esquerda do cabeçalho; 
     - Adicione um elemento `h1` com o nome *"LGPDoces"*, que deverá ficar à direita do cabeçalho;
     - **Dica:** Use o `display: inline-block`.
