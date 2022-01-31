@@ -6,7 +6,7 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
 
 ## Requisitos
 
-1 [x] - Crie um cabeçalho para a página:
+[x] 1 - Crie um cabeçalho para a página:
     - Adicione um `id` para seu cabeçalho;
     - Faça com que a cor de fundo seja `#FFC5E5`;
     - Faça com que a posição seja absoluta; 
