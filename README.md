@@ -6,22 +6,22 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
 
 ## Requisitos
 
-1. [x] Crie um cabeçalho para a página:
+1 [x] - Crie um cabeçalho para a página:
     - Adicione um `id` para seu cabeçalho;
     - Faça com que a cor de fundo seja `#FFC5E5`;
     - Faça com que a posição seja absoluta; 
     - Use as propriedades `left` e `top` para retirrar espaços em branco. 
   
-2. [x] Crie um menu para o cabeçalho:
+2 [x] - Crie um menu para o cabeçalho:
     - Adicione 3 elementos `h3` com os nomes *"SOBRE"*, *"SERVIÇOS"* e *"CONTATO"*, que deverão ficar à esquerda do cabeçalho; 
     - Adicione um elemento `h1` com o nome *"LGPDoces"*, que deverá ficar à direita do cabeçalho;
     - **Dica:** Use o `display: inline-block`.
   
-3. [x] Faça com que **todas** as fontes sejam da família **Arial** e da cor `#1f1c0d`.
+3 [x] - Faça com que **todas** as fontes sejam da família **Arial** e da cor `#1f1c0d`.
    
-4. [x] Faça com que o `body` seja da cor `#FEE9FC`.
+4 [x] - Faça com que o `body` seja da cor `#FEE9FC`.
    
-5. [x] Crie uma **seção** e atribua uma `classe` e um `id` a ela:
+5 [x] - Crie uma **seção** e atribua uma `classe` e um `id` a ela:
     - Faça com que essa seção tenha margens em relação ao **topo**, **direita** e **esquerda**;
     - Crie um `h2` com o texto *"Sobre nós"* dentro da seção e adicione um `id` para ele;
     - Crie um parágrafo com o texto *"Somos a LGPDoces, uma confeitaria que está há 10 anos no mercado oferecendo o melhor da confeitaria. Nossa missão é levar         mais   sabor e alegria para todas as pessas consumidoras e você pode ser uma delas! Veja o que nós oferecemos."* e adicione um `id` para ele;
