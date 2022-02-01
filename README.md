@@ -29,7 +29,7 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
     - Faça com que o título tenha uma **margem** em relação à esquerda e um tamanho de `32px`;
     - Faça com que o **parágrafo** tenha um tamanho de `20px`. 
   
-- [ ] 6. Crie uma **seção** e atribua uma `classe` e um `id` a ela:
+- [x] 6. Crie uma **seção** e atribua uma `classe` e um `id` a ela:
     - Faça com que essa seção tenha margens em relação ao **topo**, **direita** e **esquerda**;
     - Crie um `h2` dentro dessa seção com fonte de `32px` e margem em relação à **esquerda**;
     - Dentro da pasta `img`, há 4 imagens de produtos oferecidos. Para cada imagem, dentro da seção criada neste passo (6), crie um `article` e coloque dentro dele a imagem e o texto a ela relacionado. Para o bolo *"Temos deliciosos bolos para você!"*; para os brigadeiros *"Experimente nossos famosos brigadeiros gourmet"*; para os cupcakes *"Os melhores cupcakes para suas festas e dia a dia"*; para a torta *"Experimente também nossas saborosas tortas"*. Exemplo de código:
@@ -44,9 +44,9 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
        </section
       ```  
 
-- [ ] 7. Faça com que as imagens fiquem lado a lado com os seus respectivos textos. Exemplo: ao lado da imagem do bolo deve estar o texto referente a ele.
+- [x] 7. Faça com que as imagens fiquem lado a lado com os seus respectivos textos. Exemplo: ao lado da imagem do bolo deve estar o texto referente a ele.
     
-- [ ] 8. Crie uma **seção** e atribua uma `classe` e um `id` a ela:
+- [x] 8. Crie uma **seção** e atribua uma `classe` e um `id` a ela:
     - Dentro dessa seção, adicione um `h2` com o texto *"Entre em contato através de nossas redes sociais!"* ;
     - Na pasta `img` há 3 imagens referentes a ícones de redes sociais. Para cada um dos ícones, dentro da seção criada neste passo (8), crie um elemento `a` que irá receber o ícone da rede social para que, quando for cliacado, redirecione para uma nova página. Exemplo de código:
   
@@ -59,7 +59,7 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
     - Faça com que os ícones tenham largura de `64px`;
     - Retire o atributo `text-decoration` de todas as tags `a`.
   
-- [ ] 9.  Crie um `footer` para a página:
+- [x] 9.  Crie um `footer` para a página:
     - Faça com que esse footer tenha um `id`; 
     - Crie um parágrafo dentro do footer com o texto *"Todos os direitos reservados | LGPDoces | 2022"*;
     - Defina uma `altura` para o footer; 
@@ -69,5 +69,5 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
     - Faça com que a cor de fundo do footer seja `#FFC5E5`;
     - Defina uma margem em relação à **esquerda** e ao **topo** para o **parágrafo**.
   
-- [ ] 10. Cire uma navegação interna no site:
+- [x] 10. Cire uma navegação interna no site:
     - Utilize a tage `a` para criar uma navegação interna através do menu do cabeçalho do site. Ao clicar em "SOBRE", a pessoa deve ser redirecionada para a primeira seção (que fala sobre a confeitaria); ao clicar em "SERVIÇOS", deverá ser redirecionada para a seção que lista os doces produzidos; ao clicar em "CONTATO", deverá ser redirecionada para a seção com os links para as redes sociais. 
