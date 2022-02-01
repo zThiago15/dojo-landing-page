@@ -69,5 +69,5 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
     - Faça com que a cor de fundo do footer seja `#FFC5E5`;
     - Defina uma margem em relação à **esquerda** e ao **topo** para o **parágrafo**.
   
-- [x] 10. Cire uma navegação interna no site:
+- [x] 10. Crie uma navegação interna no site:
     - Utilize a tage `a` para criar uma navegação interna através do menu do cabeçalho do site. Ao clicar em "SOBRE", a pessoa deve ser redirecionada para a primeira seção (que fala sobre a confeitaria); ao clicar em "SERVIÇOS", deverá ser redirecionada para a seção que lista os doces produzidos; ao clicar em "CONTATO", deverá ser redirecionada para a seção com os links para as redes sociais. 
