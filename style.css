@@ -15,6 +15,7 @@ header {
 
     top: 20px;
     left: 20px;
+    width: 97%;
 }
 
 section {
@@ -30,6 +31,7 @@ main section.section-content {
 }
 
 #about-us {
+    margin-top: 150px;
     margin-left: 30px;
     font-size: 32px;
 }
