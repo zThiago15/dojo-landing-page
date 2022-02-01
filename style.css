@@ -52,3 +52,11 @@ h3 {
     padding: 50px 0px 50px 0px;
     vertical-align: middle;
 }
+
+#contact a img {
+    width: 64px;
+}
+
+a {
+    text-decoration: none;
+}
